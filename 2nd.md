@@ -11,3 +11,4 @@ checked again, it will display INSERT COIN and the current amount will be set to
 inserted then the machine displays PRICE and the price of the item and subsequent checks of the display will display
 either INSERT COIN or the current amount as appropriate.
 
+You will at least want a method to accept a button press. You can stub out a method that dispenses the product.

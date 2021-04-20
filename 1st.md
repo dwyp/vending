@@ -26,3 +26,5 @@ vending machine works.  Instead, it identifies coins by their weight and size an
 was inserted.  You will need to do something similar.  This can be simulated using strings, constants, enums,
 symbols, or something of that nature.
 
+You will want at least a method to insert coins and one to return the display text. You can stub out a reject coin method.
+
